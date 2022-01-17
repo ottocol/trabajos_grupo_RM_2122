@@ -72,7 +72,8 @@
 ## Robótica de enjambre. Espectáculo de Drones
 ### José Carlos Aldeguer Coll, Jorge Guillén Pastor, Elisa Sáez García
 
-- [Documento](enjambre_drones2/enjambre_drones2.pdf)
+- [Documento](enjambre_drones2/enjambre.pdf)
+- [Presentación en video](https://drive.google.com/file/d/1LVSlJW_MkjB-7uZYD5QqNBogSU2Va2On/view)
 
 
 ## Sistemas de conducción autónoma
