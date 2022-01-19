@@ -46,7 +46,7 @@
 
 - [Documento](enjambre_drones/enjambre_drones.pdf)
 
-## Vehículos autónomosCarlos García Aguado María García Gutiérrez
+## Vehículos autónomos
 ### Javier Antón Durá, David Paredes Valverde, Guillermo Pedrajas Mayor, Javier Sánchez Martínez
 
 - [Documento](vehiculos_autonomos2/vehiculos_autonomos2.pdf)
